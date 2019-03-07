@@ -13,6 +13,7 @@ public class MyCoolProgram
         while(true)
         {
             main();
+            System.out.println("You thought this was over. ( ͡° ͜ʖ ͡°)");
         }
 
       
